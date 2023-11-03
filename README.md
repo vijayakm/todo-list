@@ -28,7 +28,7 @@ A simple to-do list app built with React Native, TypeScript, Expo, and Redux Too
 1. Clone the repository to your local machine.
 2. Change your current directory to the project folder:
 ```
-cd Paidy
+cd todo-list/
 ```
 3. Install the project dependencies:
 ```
@@ -49,10 +49,13 @@ yarn format
 
 # eslint error
 yarn lint
+
+# unit test
+yarn test
 ```
 
 ## Demo
-![](todo-list.mov)
+![](./todo-list.mov)
 
 ## Improvements
 
