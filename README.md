@@ -55,7 +55,8 @@ yarn test
 ```
 
 ## Demo
-![](https://github.com/vijayakm/todo-list/assets/8655420/7a4c732f-c19a-4eda-ae89-7431f0507d6d)
+[<img width="430" src="https://github.com/vijayakm/todo-list/assets/8655420/7a4c732f-c19a-4eda-ae89-7431f0507d6d">]
+
 
 ## Improvements
 
