@@ -47,7 +47,7 @@ yarn ios
 # Prettier 
 yarn format
 
-# eslint error
+# check eslint 
 yarn lint
 
 # unit test
@@ -60,10 +60,10 @@ yarn test
 
 ## Improvements
 
-While the app is functional, there are several areas where you can improve it:
+While the app is functional,There are several areas for improvement:
 While the app is functional, it's important to note that I made only a few tests due to time constraints. Testing is a crucial aspect of software development.
 
-1. **Android Testing**: Since you only have an iPhone simulator, it's important to test the app on an Android device or emulator to ensure it works seamlessly on both platforms.
+1. **Android Testing**: Since I only have an iPhone simulator, it's important to test the app on an Android device or emulator to ensure it works seamlessly on both platforms.
 
 2. **UI/UX Improvements**: Enhance the app's user interface and user experience. 
 
